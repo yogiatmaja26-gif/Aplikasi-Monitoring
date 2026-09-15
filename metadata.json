@@ -1,0 +1,6 @@
+{
+  "name": "RAP Material Control System",
+  "description": "Construction material monitoring and procurement control system: Plan, Purchase, Receive, Install, Monitor, and Report with Excel import and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
